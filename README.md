@@ -19,7 +19,6 @@
 <!-- APRESENTAÇÃO -->
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/76459155/199731620-a4b5b177-51fa-4438-b156-a688add7e716.png" alt="Algoritmos-pic" width="116px">
 <h1 align="center">Exercícios de Algoritmos 💻</h1>
 </div>
 
